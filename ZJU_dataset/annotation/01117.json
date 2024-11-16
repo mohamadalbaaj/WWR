@@ -1,0 +1,94 @@
+{
+    "version": "3.6.10",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    99,
+                    246
+                ],
+                [
+                    108,
+                    386
+                ],
+                [
+                    293,
+                    384
+                ],
+                [
+                    266,
+                    246
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    108,
+                    398
+                ],
+                [
+                    120,
+                    600
+                ],
+                [
+                    329,
+                    588
+                ],
+                [
+                    293,
+                    391
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    312,
+                    185
+                ],
+                [
+                    330,
+                    260
+                ],
+                [
+                    410,
+                    257
+                ],
+                [
+                    386,
+                    184
+                ]
+            ],
+            "shape_type": "polygon"
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "01117.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 423
+}

@@ -1,0 +1,982 @@
+{
+    "version": "3.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    187,
+                    44
+                ],
+                [
+                    184,
+                    61
+                ],
+                [
+                    216,
+                    64
+                ],
+                [
+                    218,
+                    45
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    180,
+                    86
+                ],
+                [
+                    176,
+                    105
+                ],
+                [
+                    210,
+                    108
+                ],
+                [
+                    212,
+                    88
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    174,
+                    132
+                ],
+                [
+                    171,
+                    157
+                ],
+                [
+                    206,
+                    159
+                ],
+                [
+                    207,
+                    135
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    167,
+                    181
+                ],
+                [
+                    163,
+                    209
+                ],
+                [
+                    198,
+                    210
+                ],
+                [
+                    200,
+                    184
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    157,
+                    242
+                ],
+                [
+                    152,
+                    273
+                ],
+                [
+                    190,
+                    274
+                ],
+                [
+                    193,
+                    243
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    149,
+                    307
+                ],
+                [
+                    142,
+                    341
+                ],
+                [
+                    179,
+                    343
+                ],
+                [
+                    184,
+                    309
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    356,
+                    54
+                ],
+                [
+                    358,
+                    75
+                ],
+                [
+                    376,
+                    76
+                ],
+                [
+                    375,
+                    55
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    359,
+                    96
+                ],
+                [
+                    360,
+                    117
+                ],
+                [
+                    379,
+                    119
+                ],
+                [
+                    378,
+                    97
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    361,
+                    139
+                ],
+                [
+                    362,
+                    165
+                ],
+                [
+                    382,
+                    166
+                ],
+                [
+                    381,
+                    141
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    363,
+                    190
+                ],
+                [
+                    365,
+                    214
+                ],
+                [
+                    386,
+                    215
+                ],
+                [
+                    384,
+                    190
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    367,
+                    246
+                ],
+                [
+                    368,
+                    276
+                ],
+                [
+                    392,
+                    276
+                ],
+                [
+                    389,
+                    246
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    369,
+                    310
+                ],
+                [
+                    371,
+                    341
+                ],
+                [
+                    396,
+                    341
+                ],
+                [
+                    393,
+                    311
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    387,
+                    56
+                ],
+                [
+                    389,
+                    76
+                ],
+                [
+                    408,
+                    77
+                ],
+                [
+                    405,
+                    57
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    391,
+                    97
+                ],
+                [
+                    392,
+                    119
+                ],
+                [
+                    412,
+                    119
+                ],
+                [
+                    411,
+                    98
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    396,
+                    142
+                ],
+                [
+                    398,
+                    165
+                ],
+                [
+                    417,
+                    166
+                ],
+                [
+                    414,
+                    143
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    400,
+                    191
+                ],
+                [
+                    401,
+                    218
+                ],
+                [
+                    425,
+                    218
+                ],
+                [
+                    422,
+                    191
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    405,
+                    246
+                ],
+                [
+                    408,
+                    276
+                ],
+                [
+                    431,
+                    276
+                ],
+                [
+                    428,
+                    247
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    411,
+                    310
+                ],
+                [
+                    414,
+                    344
+                ],
+                [
+                    439,
+                    345
+                ],
+                [
+                    435,
+                    310
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    451,
+                    313
+                ],
+                [
+                    455,
+                    344
+                ],
+                [
+                    480,
+                    344
+                ],
+                [
+                    475,
+                    314
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    443,
+                    248
+                ],
+                [
+                    447,
+                    278
+                ],
+                [
+                    470,
+                    278
+                ],
+                [
+                    465,
+                    248
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    436,
+                    192
+                ],
+                [
+                    440,
+                    219
+                ],
+                [
+                    462,
+                    220
+                ],
+                [
+                    457,
+                    193
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    429,
+                    143
+                ],
+                [
+                    432,
+                    167
+                ],
+                [
+                    452,
+                    168
+                ],
+                [
+                    450,
+                    143
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    423,
+                    99
+                ],
+                [
+                    426,
+                    119
+                ],
+                [
+                    445,
+                    120
+                ],
+                [
+                    442,
+                    99
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    418,
+                    59
+                ],
+                [
+                    422,
+                    77
+                ],
+                [
+                    439,
+                    77
+                ],
+                [
+                    437,
+                    59
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    479,
+                    63
+                ],
+                [
+                    483,
+                    81
+                ],
+                [
+                    500,
+                    82
+                ],
+                [
+                    496,
+                    62
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    487,
+                    101
+                ],
+                [
+                    493,
+                    129
+                ],
+                [
+                    510,
+                    127
+                ],
+                [
+                    505,
+                    103
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    495,
+                    147
+                ],
+                [
+                    500,
+                    181
+                ],
+                [
+                    522,
+                    174
+                ],
+                [
+                    515,
+                    147
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    506,
+                    196
+                ],
+                [
+                    513,
+                    237
+                ],
+                [
+                    532,
+                    230
+                ],
+                [
+                    527,
+                    197
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    518,
+                    252
+                ],
+                [
+                    525,
+                    294
+                ],
+                [
+                    547,
+                    291
+                ],
+                [
+                    537,
+                    252
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    522,
+                    63
+                ],
+                [
+                    525,
+                    81
+                ],
+                [
+                    543,
+                    83
+                ],
+                [
+                    538,
+                    65
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    532,
+                    104
+                ],
+                [
+                    538,
+                    126
+                ],
+                [
+                    554,
+                    126
+                ],
+                [
+                    550,
+                    105
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    543,
+                    147
+                ],
+                [
+                    549,
+                    172
+                ],
+                [
+                    567,
+                    172
+                ],
+                [
+                    562,
+                    148
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    553,
+                    198
+                ],
+                [
+                    560,
+                    225
+                ],
+                [
+                    581,
+                    227
+                ],
+                [
+                    573,
+                    199
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    567,
+                    253
+                ],
+                [
+                    575,
+                    281
+                ],
+                [
+                    597,
+                    281
+                ],
+                [
+                    590,
+                    252
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    584,
+                    314
+                ],
+                [
+                    592,
+                    344
+                ],
+                [
+                    614,
+                    345
+                ],
+                [
+                    604,
+                    314
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    553,
+                    66
+                ],
+                [
+                    558,
+                    85
+                ],
+                [
+                    576,
+                    87
+                ],
+                [
+                    571,
+                    67
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    564,
+                    107
+                ],
+                [
+                    570,
+                    126
+                ],
+                [
+                    589,
+                    127
+                ],
+                [
+                    583,
+                    109
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    578,
+                    148
+                ],
+                [
+                    585,
+                    174
+                ],
+                [
+                    603,
+                    173
+                ],
+                [
+                    596,
+                    150
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    594,
+                    200
+                ],
+                [
+                    599,
+                    225
+                ],
+                [
+                    619,
+                    227
+                ],
+                [
+                    612,
+                    200
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    608,
+                    255
+                ],
+                [
+                    615,
+                    281
+                ],
+                [
+                    637,
+                    282
+                ],
+                [
+                    628,
+                    255
+                ]
+            ],
+            "shape_type": "polygon"
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "00930.jpg",
+    "imageData": null,
+    "imageHeight": 360,
+    "imageWidth": 640
+}

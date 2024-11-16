@@ -1,0 +1,46 @@
+{
+    "version": "3.8.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    193,
+                    269
+                ],
+                [
+                    189,
+                    410
+                ],
+                [
+                    265,
+                    410
+                ],
+                [
+                    260,
+                    269
+                ]
+            ],
+            "shape_type": "polygon"
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "00853.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 480
+}

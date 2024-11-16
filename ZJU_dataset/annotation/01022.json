@@ -1,0 +1,142 @@
+{
+    "version": "3.7.2",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    140,
+                    48
+                ],
+                [
+                    142,
+                    128
+                ],
+                [
+                    208,
+                    128
+                ],
+                [
+                    208,
+                    49
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    142,
+                    203
+                ],
+                [
+                    143,
+                    283
+                ],
+                [
+                    211,
+                    283
+                ],
+                [
+                    209,
+                    206
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    426,
+                    5
+                ],
+                [
+                    428,
+                    91
+                ],
+                [
+                    516,
+                    90
+                ],
+                [
+                    515,
+                    3
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    426,
+                    159
+                ],
+                [
+                    427,
+                    244
+                ],
+                [
+                    514,
+                    244
+                ],
+                [
+                    514,
+                    158
+                ]
+            ],
+            "shape_type": "polygon"
+        },
+        {
+            "label": "window",
+            "line_color": null,
+            "fill_color": null,
+            "points": [
+                [
+                    427,
+                    318
+                ],
+                [
+                    428,
+                    405
+                ],
+                [
+                    515,
+                    405
+                ],
+                [
+                    515,
+                    318
+                ]
+            ],
+            "shape_type": "polygon"
+        }
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "imagePath": "01022.jpg",
+    "imageData": null,
+    "imageHeight": 427,
+    "imageWidth": 640
+}

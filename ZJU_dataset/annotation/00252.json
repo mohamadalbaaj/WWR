@@ -1,0 +1,118 @@
+{
+    "imagePath": "00252.jpg",
+    "imageData": null,
+    "shapes": [
+        {
+            "shape_type": "polygon",
+            "line_color": null,
+            "points": [
+                [
+                    267,
+                    212
+                ],
+                [
+                    265,
+                    273
+                ],
+                [
+                    303,
+                    272
+                ],
+                [
+                    302,
+                    212
+                ]
+            ],
+            "fill_color": null,
+            "label": "window"
+        },
+        {
+            "shape_type": "polygon",
+            "line_color": null,
+            "points": [
+                [
+                    432,
+                    211
+                ],
+                [
+                    433,
+                    281
+                ],
+                [
+                    467,
+                    282
+                ],
+                [
+                    465,
+                    212
+                ]
+            ],
+            "fill_color": null,
+            "label": "window"
+        },
+        {
+            "shape_type": "polygon",
+            "line_color": null,
+            "points": [
+                [
+                    259,
+                    339
+                ],
+                [
+                    256,
+                    409
+                ],
+                [
+                    302,
+                    409
+                ],
+                [
+                    302,
+                    339
+                ]
+            ],
+            "fill_color": null,
+            "label": "window"
+        },
+        {
+            "shape_type": "polygon",
+            "line_color": null,
+            "points": [
+                [
+                    427,
+                    339
+                ],
+                [
+                    431,
+                    408
+                ],
+                [
+                    473,
+                    408
+                ],
+                [
+                    473,
+                    339
+                ]
+            ],
+            "fill_color": null,
+            "label": "window"
+        }
+    ],
+    "version": "3.8.1",
+    "flags": {},
+    "fillColor": [
+        255,
+        0,
+        0,
+        128
+    ],
+    "lineColor": [
+        0,
+        255,
+        0,
+        128
+    ],
+    "imageWidth": 640,
+    "imageHeight": 480
+}
