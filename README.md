@@ -3,7 +3,7 @@
 ## Citation
 this project uses dataset provided by:
 
-```https://github.com/lck1201/win_det_heatmaps.git```
+(https://github.com/lck1201/win_det_heatmaps.git)
 
 ```
 @article{Chuan-Kang Li:900, 
