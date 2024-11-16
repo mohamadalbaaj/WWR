@@ -1,5 +1,48 @@
 # WWR
 
+## How to Run
+### Prerequisites
+1. **Install Python**: Ensure you have Python 3.8 or later installed. You can download it from [Python.org](https://www.python.org/).
+
+2. **Clone the Repository**:
+   ```
+   git clone https://github.com/mohamadalbaaj/WWR.git
+   ```
+   ```
+   cd WWR
+   ```
+   ```
+   git checkout dev
+   ```
+
+3. **Set Up a Virtual Environment (optional but recommended)**:
+   ```
+   python -m venv venv
+   ```
+   ```
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+4. **Install Dependencies**:
+   ```
+   pip install -r requirements.txt
+   ```
+5. **Install Jupyter (if not already installed)**:
+   ```
+   pip install notebook
+   ```   
+### Open Notebooks
+1. **Open the Relevant Notebook**:
+- **object_detection_fasterrcnn.ipynb**  
+  For object detection using Faster R-CNN  
+
+- **semantic_segmentation_fcnresnet.ipynb**  
+  For semantic segmentation using FCN ResNet
+2. **Configure Notebook Environment**:
+- Before running the cells, verify that the kernel is set to the virtual environment you created earlier.
+- Click Kernel > Change Kernel and select your environment.
+3. **Execute Cells**:
+- Run All: Click Cell > Run All in the toolbar
+
 ## Citation
 this project uses dataset provided by:
 
