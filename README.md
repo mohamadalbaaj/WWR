@@ -11,9 +11,6 @@
    ```
    cd WWR
    ```
-   ```
-   git checkout dev
-   ```
 
 3. **Set Up a Virtual Environment (optional but recommended)**:
    ```
