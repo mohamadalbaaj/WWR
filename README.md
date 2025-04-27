@@ -29,11 +29,15 @@
    ```   
 ### Open Notebooks
 1. **Open the Relevant Notebook**:
-- **object_detection_fasterrcnn.ipynb**  
-  For object detection using Faster R-CNN  
+- **object_detection.ipynb**  
+  For object detection using Faster R-CNN, YOLO
 
-- **semantic_segmentation_fcnresnet.ipynb**  
-  For semantic segmentation using FCN ResNet
+- **Zero_shot_Grounding_DINO.ipynb**  
+  For zero shot object detection
+
+- **semantic_segmentation.ipynb**  
+  For semantic segmentation using FCN, DeepLabV3, U-Net
+
 2. **Configure Notebook Environment**:
 - Before running the cells, verify that the kernel is set to the virtual environment you created earlier.
 - Click Kernel > Change Kernel and select your environment.
@@ -41,7 +45,7 @@
 - Run All: Click Cell > Run All in the toolbar
 
 ## Citation
-this project uses dataset provided by:
+this project uses this dataset for training the models:
 
 (https://github.com/lck1201/win_det_heatmaps.git)
 
@@ -61,4 +65,19 @@ this project uses dataset provided by:
     url = {http://jcst.ict.ac.cn/EN/abstract/article_2660.shtml},
     doi = {10.1007/s11390-020-0253-4}
 }  
+```
+
+this project uses this Grounding DINO model:
+
+groundingdino_swint_ogc.pth
+
+(https://github.com/IDEA-Research/GroundingDINO/releases)
+
+```
+@article{liu2023grounding,
+  title={Grounding dino: Marrying dino with grounded pre-training for open-set object detection},
+  author={Liu, Shilong and Zeng, Zhaoyang and Ren, Tianhe and Li, Feng and Zhang, Hao and Yang, Jie and Li, Chunyuan and Yang, Jianwei and Su, Hang and Zhu, Jun and others},
+  journal={arXiv preprint arXiv:2303.05499},
+  year={2023}
+} 
 ```
