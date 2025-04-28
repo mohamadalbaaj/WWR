@@ -45,7 +45,7 @@
 - Run All: Click Cell > Run All in the toolbar
 
 ## Citation
-this project uses this dataset for training the models:
+this project used this dataset for training the models:
 
 (https://github.com/lck1201/win_det_heatmaps.git)
 
@@ -67,7 +67,7 @@ this project uses this dataset for training the models:
 }  
 ```
 
-this project uses this Grounding DINO model:
+this Grounding DINO model:
 
 groundingdino_swint_ogc.pth
 
