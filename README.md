@@ -67,7 +67,7 @@ this project used this dataset for training the models:
 }  
 ```
 
-this Grounding DINO model:
+and this Grounding DINO model:
 
 groundingdino_swint_ogc.pth
 
